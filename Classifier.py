@@ -20,14 +20,8 @@ import matplotlib.pyplot as plt
 from sklearn.metrics import precision_recall_curve
 from sklearn.metrics import average_precision_score
 
-#string to test
-doc_new = ['obama is running for president in 2016']
+doc_new = ['Hillary is running for president in 2016']
 
-#the feature selection has been done in FeatureSelection.py module. here we will create models using those features for prediction
-
-#first we will use bag of words techniques
-
-#building classifier using naive bayes 
 nb_pipeline = Pipeline([
         ('NBCV',FeatureSelection.countV),
         ('nb_clf',MultinomialNB())])
