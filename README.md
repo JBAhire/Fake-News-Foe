@@ -3,7 +3,7 @@
 
 How do you deal with such a sensitive issue? Countless articles are being churned out every day on the internet -- how do you tell real from fake? It's not as easy as turning to a simple fact-checker which is typically built on a story-by-story basis. As developers, can we turn to machine learning?
 
-Read the detailed article here: 
+Read the detailed article here: https://dev.to/twilio/fake-news-foe-machine-learning-and-twilio-5fln
 
 Aim:
 ----
