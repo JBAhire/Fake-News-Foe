@@ -1,5 +1,5 @@
 # Fake-News-Foe
-**Fake news** has become a huge issue in our digitally-connected world and it is no longer limited to little squabbles -- fake news spreads like wildfire and is impacting millions of people every day.
+**Fake news** has become a huge issue in our digitally-connected world and it is no longer limited to little squabbles! fake news spreads like wildfire and is impacting millions of people every day.
 
 How do you deal with such a sensitive issue? Countless articles are being churned out every day on the internet -- how do you tell real from fake? It's not as easy as turning to a simple fact-checker which is typically built on a story-by-story basis. As developers, can we turn to machine learning?
 
