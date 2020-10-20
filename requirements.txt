@@ -100,17 +100,6 @@ Keras-Preprocessing==1.1.0
 keyring==18.0.0
 kiwisolver==1.1.0
 lazy-object-proxy==1.4.2
-libarchive-c==2.8
-lief==0.9.0
-llvmlite==0.29.0
-locket==0.2.0
-lxml==4.4.1
-Markdown==3.2.1
-MarkupSafe==1.1.1
-matplotlib==3.1.1
-mccabe==0.6.1
-mistune==0.8.4
-mkl-fft==1.0.14
 mkl-random==1.1.0
 mkl-service==2.3.0
 mock==3.0.5
@@ -218,7 +207,7 @@ sympy==1.4
 tables==3.5.2
 tblib==1.4.0
 tensorboard==1.14.0
-tensorflow==1.15.2
+tensorflow==1.15.4
 tensorflow-estimator==1.14.0
 tensorflow-hub==0.7.0
 termcolor==1.1.0
