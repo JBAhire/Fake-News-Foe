@@ -49,8 +49,3 @@ Hurray! You wanna try this? Complete code is available on [GitHub](https://githu
 3. [Fake News Detection with LIAR Dataset](https://github.com/nishitpatel01/Fake_News_Detection)
 4. [What is Fake News?](https://30secondes.org/en/module/what-is-fake-news/)
 5. [FEVER: a large-scale dataset for Fact Extraction and VERification](https://arxiv.org/pdf/1803.05355.pdf)
-
-
-
-
-
