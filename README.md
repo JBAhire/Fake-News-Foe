@@ -20,12 +20,13 @@ Requirements:
 -   [Set up your Python and Flask developer environment](https://www.twilio.com/docs/usage/tutorials/how-to-set-up-your-python-and-flask-development-environment) --- Make sure you have Python 3 downloaded as well as[  ngrok](https://ngrok.com/).
 
 -   Tensorflow
-- Run `pip install -r requirements.txt`
+
+- Run to install required modules `pip install -r installed_apps.txt`
 
 Demo:
 ----------
 
-1. `Run app.py`
+1. `flask run`
 
 ![Running Flask App](https://s3.amazonaws.com/fininity.tech/Blog_images/terminal-2.png)
 
@@ -33,7 +34,9 @@ Demo:
 
 ![ngrok](https://s3.amazonaws.com/fininity.tech/Blog_images/terminal-1.png)
 
-3. Grab that ngrok URL to configure twilio whatsapp sandbox. We will try this on WhatsApp! So let’s go ahead and do it (either on our Sandbox if you want to do testing or your main WhatsApp Sender number if you have one provisioned). In a screenshot below we show the Sandbox page:
+3. Grab that ngrok URL to configure twilio whatsapp sandbox and update at "WHEN A MESSAGE COMES IN". Make sure the url gets updated correctly.
+Now We will try this on WhatsApp!  So let’s go ahead and do it (either on our Sandbox if you want to do testing or your main WhatsApp Sender number if you have one provisioned). In a screenshot below we show the Sandbox page:
+
 
 ![Configuring Twilio Sandbox](https://s3.amazonaws.com/fininity.tech/Blog_images/twilio-console.png)
 

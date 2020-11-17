@@ -1,0 +1,5 @@
+flask
+twilio
+nltk
+seaborn
+scikit-learn
